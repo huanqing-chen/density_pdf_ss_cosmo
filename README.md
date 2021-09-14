@@ -2,6 +2,8 @@
 
 Density PDFs measured from self-similar simulations.
 
+file name: xxx_ns_sigL(_f_fvalue).txt
+
 rspace_PDF_final_val_err: real-space density
 
 zspace_PDF_f_final_val_err: redshift-space density
